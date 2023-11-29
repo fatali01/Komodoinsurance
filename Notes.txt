@@ -1,0 +1,17 @@
+N-tier Architecture
+
+2 class libraries
+data layer - Reference nothing
+dotnet new classlib -o "DevTeams.Data" 
+
+Repository - Reference the data layer
+dotnet new classlib -o "DevTeams.Repository"
+- dotnet add .\DevTeams.Repository\ reference .\DevTeams.Data\
+
+
+1 UI layer (front facing application)
+- dotnet new console -o "DevTeams.UI"
+- references the Data/Repository layer(s)
+- dotnet add .\DevTeams.UI\ reference .\DevTeams.Repository\ 
+- dotnet add .\DevTeams.UI\ reference .\DevTeams.Data\ 
+

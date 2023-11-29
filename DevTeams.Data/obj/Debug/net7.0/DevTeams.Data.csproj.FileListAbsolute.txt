@@ -1,0 +1,11 @@
+C:\ElevenFiftyProjects_177\assignments\KomodoInsurance\DevTeams.Data\obj\Debug\net7.0\DevTeams.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\ElevenFiftyProjects_177\assignments\KomodoInsurance\DevTeams.Data\obj\Debug\net7.0\DevTeams.Data.AssemblyInfoInputs.cache
+C:\ElevenFiftyProjects_177\assignments\KomodoInsurance\DevTeams.Data\obj\Debug\net7.0\DevTeams.Data.AssemblyInfo.cs
+C:\ElevenFiftyProjects_177\assignments\KomodoInsurance\DevTeams.Data\obj\Debug\net7.0\DevTeams.Data.csproj.CoreCompileInputs.cache
+C:\ElevenFiftyProjects_177\assignments\KomodoInsurance\DevTeams.Data\bin\Debug\net7.0\DevTeams.Data.deps.json
+C:\ElevenFiftyProjects_177\assignments\KomodoInsurance\DevTeams.Data\bin\Debug\net7.0\DevTeams.Data.dll
+C:\ElevenFiftyProjects_177\assignments\KomodoInsurance\DevTeams.Data\bin\Debug\net7.0\DevTeams.Data.pdb
+C:\ElevenFiftyProjects_177\assignments\KomodoInsurance\DevTeams.Data\obj\Debug\net7.0\DevTeams.Data.dll
+C:\ElevenFiftyProjects_177\assignments\KomodoInsurance\DevTeams.Data\obj\Debug\net7.0\refint\DevTeams.Data.dll
+C:\ElevenFiftyProjects_177\assignments\KomodoInsurance\DevTeams.Data\obj\Debug\net7.0\DevTeams.Data.pdb
+C:\ElevenFiftyProjects_177\assignments\KomodoInsurance\DevTeams.Data\obj\Debug\net7.0\ref\DevTeams.Data.dll
